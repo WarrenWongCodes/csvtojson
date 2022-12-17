@@ -2,13 +2,13 @@
 
 ## How to Use
 
-`
+```
   npm install
 
   Place one of multiple CSV files in `csv` folder or use default
 
   npm run parse
-`
+```
 
 ### Description
 
