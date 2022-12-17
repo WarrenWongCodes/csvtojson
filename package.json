@@ -1,0 +1,13 @@
+{
+  "name": "CSV to JSON Converter v1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "parse": "node parser.js"
+  },
+  "author": "Warren Wong",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
